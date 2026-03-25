@@ -193,3 +193,11 @@ nav a:hover {
     list-style: none;
     text-align: left;
 }
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #5e73a0;
+    color: white;
+
+}
